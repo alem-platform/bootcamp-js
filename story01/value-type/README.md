@@ -1,10 +1,14 @@
 # Value Checker
 
+| Expected file |
+| ------------- |
+| value-type.js |
+
 Create a function that can tell the difference between `null`, `undefined`, and regular values.
 
 ### Instructions:
 
-Create a function called `valueCheck` that takes a single value and returns a string indicating whether the value is:
+Create a function called `valueType` that takes a single value and returns a string indicating whether the value is:
 
 - [null](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/null)
 - [undefined](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/undefined)
@@ -13,12 +17,12 @@ Create a function called `valueCheck` that takes a single value and returns a st
 ### Example:
 
 ```js
-valueCheck(null);
+valueType(null);
 // Output: 'null'
 
-valueCheck(undefined);
+valueType(undefined);
 // Output: 'undefined'
 
-valueCheck(42);
+valueType(42);
 // Output: 'number'
 ```

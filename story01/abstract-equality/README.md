@@ -1,5 +1,9 @@
 # The Abstract Equality
 
+| Expected file        |
+| -------------------- |
+| abstract-equality.js |
+
 Create a function called `abstractEquality` that compares two values and determine if they are abstractly equal, even if the types differ.
 
 ### Resources:

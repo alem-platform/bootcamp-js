@@ -1,8 +1,8 @@
+# Welcome
+
 | Expected files           |
 | ------------------------ |
 | `hello.js`, `index.html` |
-
-# Welcome
 
 Welcome to JavaScript Bootcamp! 🎉
 

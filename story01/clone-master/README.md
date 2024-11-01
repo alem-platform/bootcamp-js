@@ -1,5 +1,9 @@
 # The Clone Master
 
+| Expected file   |
+| --------------- |
+| clone-master.js |
+
 Your task is to write a function called `deepClone` that creates a deep copy of an object.
 
 ### Example:

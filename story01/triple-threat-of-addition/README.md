@@ -1,5 +1,9 @@
 # Triple Threat of Addition
 
+| Expected file                |
+| ---------------------------- |
+| triple-threat-of-addition.js |
+
 In this problem, you must master the art of adding two numbers or evaluating an expression, but here’s the twist—you’ll have to do it in three distinct ways!
 
 1. Function Declaration: Write a classic add function using the traditional function declaration style, name function `traditionalAdd`.

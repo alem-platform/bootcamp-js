@@ -1,5 +1,9 @@
 # To Boolean
 
+| Expected file |
+| ------------- |
+| to-boolean.js |
+
 You must be able to convert any value to its Boolean equivalent.
 
 ### Instructions:

@@ -1,5 +1,9 @@
 # Log the Unknown
 
+| Expected file      |
+| ------------------ |
+| log-the-unknown.js |
+
 Design a function called `logTheUnknown` that examines any given input and logs a message describing its type.
 
 ### Instructions:

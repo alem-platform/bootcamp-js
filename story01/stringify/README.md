@@ -1,5 +1,9 @@
 # Stringify
 
+| Expected file |
+| ------------- |
+| stringify.js  |
+
 Сonvert all primitive values into their string form.
 
 ### Instructions

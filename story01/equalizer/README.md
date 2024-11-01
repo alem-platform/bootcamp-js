@@ -1,5 +1,9 @@
 # Equalizer
 
+| Expected file |
+| ------------- |
+| equalizer.js  |
+
 Your task is to create the equalizer function that checks if two values are strictly equal.
 
 ### Instructions:

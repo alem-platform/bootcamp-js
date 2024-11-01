@@ -1,5 +1,9 @@
 # BigInt Brains
 
+| Expected file    |
+| ---------------- |
+| bigint-brains.js |
+
 Some numbers are too large to be handled with ease. You're asked to sum two enormous integers.
 
 ### Resources
